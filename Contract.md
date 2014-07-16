@@ -9,7 +9,7 @@
   development work, a conference talk.
 * **‘You’** refers to the client or company on behalf of whom The Work is
   commissioned.
-* **‘I’** refers to me, Harry Roberts, working for You on behalf of CSS Wizardry
+* **‘I’** refers to me, Joel Felsinger, working for You on behalf of CSS Wizardry
   Ltd.
 
 ## About this document
@@ -44,7 +44,7 @@ Now, let’s do great work together!
 
 ## Involved parties
 
-**Harry Roberts, ‘CSS Wizardry’, ‘I’:**
+**Joel Felsinger, ‘CSS Wizardry’, ‘I’:**
 
 [Address]
 
@@ -167,7 +167,7 @@ and after The Work.
 The undersigned confirm that they have read, understood, and shall adhere to the
 terms laid out in this document:
 
-* **Harry Roberts:**
+* **Joel Felsinger:**
 * **Date:**
 
 * **You:**
